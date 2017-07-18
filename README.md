@@ -1,19 +1,19 @@
-# blog-api
+# BLOG IN MEAN
 
 # Create Blog API
-https://meanblog-bpraveen.c9users.io/api/create
+https://secure-scrubland-76748.herokuapp.com/api/create
 
 # View All Blog Posts
-https://meanblog-bpraveen.c9users.io/api/viewblog
+https://secure-scrubland-76748.herokuapp.com/api/viewblog
 
 # View Blog Post By ID
-https://meanblog-bpraveen.c9users.io/api/viewblogbyid/?id=1
+https://secure-scrubland-76748.herokuapp.com/api/viewblogbyid/?id=1
 
 # Edit Blog Post By ID
-https://meanblog-bpraveen.c9users.io/api/editbyid/?id=1
+https://secure-scrubland-76748.herokuapp.com/api/editbyid/?id=1
 
 # Delete Blog Post By ID
-https://meanblog-bpraveen.c9users.io/api/deletebyid/?id=1
+https://secure-scrubland-76748.herokuapp.com/api/deletebyid/?id=1
 
 # Create Schema Structure
 
